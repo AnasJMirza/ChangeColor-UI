@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* .container{
+     border: 2px solid black; 
+} */
+
+.head{
+
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.flex-box{
+    
+    display: flex;
+    justify-content: space-around ;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 2px 0px 0px 0px;
+
+}
